@@ -1,0 +1,2 @@
+# sszhangpengfei
+使用x264编码android camera回调yuv为h264的简单例子，camera回调nv21yuv转为yuv420 ,再编码
